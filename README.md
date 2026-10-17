@@ -1,4 +1,4 @@
-# mote
+# mote - Lightweight Portable Notepad for Windows
 
 **한국어** | [English](#english)
 
